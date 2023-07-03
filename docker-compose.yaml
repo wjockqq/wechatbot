@@ -1,0 +1,8 @@
+version: '3.4'
+services:
+  ...
+  chatgpt:
+    image: lss233/chatgpt-mirai-qq-bot:browser-version
+    ports:
+      - "8080:8080"  # 关键是增加这个
+    ...
