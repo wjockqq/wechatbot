@@ -1,4 +1,4 @@
-chatbotProxy: "http://your-server-ip:port"
+chatbotProxy: "http://218.244.156.118:8234"
 autoAcceptFriendShip: "true"
 autoAcceptRoomInvite: "true"
 privateChatTrigger: ""
